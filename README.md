@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Arjun 👋
 
-<!--
-**arjuntelange/arjuntelange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Full Stack Developer  
+💻 Currently learning HTML, CSS, JavaScript & Data Structures  
+🚀 Building projects and improving problem-solving skills  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- HTML
+- CSS
+- JavaScript (Learning)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Goals
+- Become a job-ready Full Stack Developer  
+- Secure a ₹8–10 LPA role in a reputed company  
+- Continuously improve through real-world projects
