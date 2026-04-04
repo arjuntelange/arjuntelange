@@ -14,3 +14,6 @@
 - Become a job-ready Full Stack Developer  
 - Secure a ₹8–10 LPA role in a reputed company  
 - Continuously improve through real-world projects
+
+## 🌐 Connect with me
+- 💼 LinkedIn: www.linkedin.com/in/arjuntelange
