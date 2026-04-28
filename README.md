@@ -1,19 +1,45 @@
 # Hi, I'm Arjun 👋
 
-🎯 Aspiring Full Stack Developer  
-💻 Currently learning HTML, CSS, JavaScript & Data Structures  
-🚀 Building projects and improving problem-solving skills  
+🎯 Aspiring Full Stack Developer | Problem Solver | Lifelong Learner  
 
-## 🔧 Skills
-- HTML
-- CSS
-- JavaScript (Learning)
-- Git & GitHub
+💻 Currently learning **HTML, CSS, JavaScript, Git/GitHub & Data Structures**  
+🚀 Building projects, sharpening logic, and growing every day in tech  
 
-## 📈 Goals
+---
+
+## 👨‍💻 About Me
+
+- Diploma graduate in Information Technology  
+- Passionate about Web Development and Software Engineering  
+- Focused on becoming industry-ready through practical projects  
+- Interested in internships, coding challenges, and continuous growth  
+
+---
+
+## 🔧 Tech Stack
+
+- 🌐 HTML  
+- 🎨 CSS  
+- ⚡ JavaScript *(Learning)*  
+- 🔀 Git & GitHub  
+- 🧠 Data Structures & Problem Solving *(Learning)*  
+
+---
+
+## 📈 Current Goals
+
 - Become a job-ready Full Stack Developer  
-- Secure a ₹8–10 LPA role in a reputed company  
-- Continuously improve through real-world projects
+- Build strong real-world projects  
+- Improve DSA and coding skills  
+- Secure a great internship / placement opportunity  
+- Grow into a high-value software engineer  
+
+---
+
+## 🚀 Current Journey
+
+```text
+Learning → Building → Improving → Applying → Winning
 
 ## 🌐 Connect with me
 - 💼 LinkedIn: www.linkedin.com/in/arjuntelange
