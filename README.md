@@ -1,7 +1,6 @@
 # Hi, I'm Arjun 👋
 
-🎯 Aspiring Full Stack Developer | Problem Solver | Lifelong Learner  
-
+🎯 Aspiring Full Stack Developer | Problem Solver  
 💻 Currently learning **HTML, CSS, JavaScript, Git/GitHub & Data Structures**  
 🚀 Building projects, sharpening logic, and growing every day in tech  
 
@@ -36,10 +35,13 @@
 
 ---
 
+## 🌐 Connect With Me
+
+💼 LinkedIn: [Arjun Telange](https://www.linkedin.com/in/arjuntelange/)
+
+---
+
 ## 🚀 Current Journey
 
 ```text
 Learning → Building → Improving → Applying → Winning
-
-## 🌐 Connect with me
-- 💼 LinkedIn: www.linkedin.com/in/arjuntelange
