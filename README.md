@@ -19,7 +19,8 @@
 
 - 🌐 HTML  
 - 🎨 CSS  
-- ⚡ JavaScript *(Learning)*  
+- ⚡ JavaScript
+- ⚛️ React *(Learning)*
 - 🔀 Git & GitHub  
 - 🧠 Data Structures & Problem Solving *(Learning)*  
 
