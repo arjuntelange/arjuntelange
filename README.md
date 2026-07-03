@@ -1,7 +1,7 @@
 # Hi, I'm Arjun 👋
 
 🎯 Aspiring Full Stack Developer | Problem Solver  
-💻 Currently learning **HTML, CSS, JavaScript, Git/GitHub & Data Structures**  
+💻 Currently learning **Full Stack Development & Data Structures**  
 🚀 Building projects, sharpening logic, and growing every day in tech  
 
 ---
