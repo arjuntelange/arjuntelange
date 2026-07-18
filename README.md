@@ -20,7 +20,9 @@
 - 🌐 HTML  
 - 🎨 CSS  
 - ⚡ JavaScript
-- ⚛️ React *(Learning)*
+- ⚛️ React
+- ⚛️ Redux
+- 🎨 Tailwind CSS
 - 🔀 Git & GitHub  
 - 🧠 Data Structures & Problem Solving *(Learning)*  
 
