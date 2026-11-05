@@ -23,6 +23,7 @@
 - ⚛️ React
 - ⚛️ Redux
 - 🎨 Tailwind CSS
+- 📊 MySQL
 - 🔀 Git & GitHub  
 - 🧠 Data Structures & Problem Solving *(Learning)*  
 
