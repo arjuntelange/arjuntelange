@@ -1,7 +1,7 @@
 # Hi, I'm Arjun 👋
 
 🧑‍🎓 2nd-year BTech student in **Electronics and Computer Engineering**  
-🎓 Diploma graduate in **Information Technology** 
+🎓 Diploma graduate in **Information Technology**  
 🚀 Learning Full Stack Developer and DSA  
 🎯 Building projects and improving through hands-on practice  
 
